@@ -1,2 +1,2 @@
-# Hunted-House
+# Haunted-House
 Hunted House project
